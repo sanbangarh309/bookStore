@@ -18,6 +18,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  - Routing handled by Ziggy
  - Tailwind CSS
  - Redis
+ - MySql 8
 
 
  ## Installation steps
