@@ -34,4 +34,4 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  - For receiving email alert, please add correct SMTP or other provider's detail and change queue connection to redis or database for adding jobs in queues.
  ```
 
- Note - Run it in browser and first you need to create account then you can see all functionality.
+ Note - First you need to create account or register with all amndatory details only then you can see all working modules.
