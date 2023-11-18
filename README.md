@@ -15,6 +15,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  - Laravel 10
  - Inertia js
  - Vue 3
+ - Routing handled by Ziggy
+ - Tailwind CSS
  - Redis
 
 
@@ -30,8 +32,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  - php artisan migrate
  - npm i (if not work try with root user)
  - npm run dev
- - php artisan serve (i'm using valet so i usually use virtual host)
+ - php artisan serve (i am using valet so i usually use virtual host)
  - For receiving email alert, please add correct SMTP or other provider's detail and change queue connection to redis or database for adding jobs in queues.
  ```
 
- Note - First you need to create account or register with all amndatory details only then you can see all working modules.
+ Note - First you need to create account or register with all mandatory details only then you can see all working modules.
